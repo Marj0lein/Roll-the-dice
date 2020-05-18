@@ -1,2 +1,2 @@
 # Roll-the-dice
-Exercise in DOM, loops and setTimeout
+Exercise in JS, DOM, loops and setTimeout
